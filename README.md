@@ -6,10 +6,10 @@
     <td align="right" valign="middle">
       <img src="https://github.com/user-attachments/assets/3c196b63-dd2e-4fe9-9d43-da35449e4e54" width="65" alt="iOS"/>
       <img src="https://github.com/user-attachments/assets/92584a0d-eb41-402b-b03d-454d089132e8" width="65" alt="Android"/>
-      <img src="https://github.com/user-attachments/assets/0f3cccd7-98fa-4757-9036-b4003efdfbb4" width="65" alt="API"/>
       <img src="https://github.com/user-attachments/assets/5028985e-f510-47a7-a08b-4614e8ff669d" width="65" alt="Web"/>
       <img src="https://github.com/user-attachments/assets/15dc521b-6e47-44d1-9b87-29439bcf9af5" width="65" alt="Ubuntu"/>
       <img src="https://github.com/user-attachments/assets/07c96b69-d88a-49a0-8469-731b994cc480" width="65" alt="Automation"/>
+      <img src="https://github.com/user-attachments/assets/0f3cccd7-98fa-4757-9036-b4003efdfbb4" width="65" alt="API"/>
     </td>
   </tr>
 </table>
