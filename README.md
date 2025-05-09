@@ -1,15 +1,27 @@
 <table>
   <tr>
     <td align="left" valign="middle">
-      <h1>👋 Hi, I'm Aman Kumar</h1>
-    </td>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/0934ebbe-ffeb-4884-8243-0bf059817577" width="200" height="50" alt="HelloWorld"/>
+        <h1 style="margin: 0;">Hi, I'm Aman</h1>
+      </td>
+      <!-- Workspace GIF on the right -->
+      <td>
+        <img src="https://github.com/user-attachments/assets/8f1a3414-9b0c-4478-93c6-06072e3ec5d9" width="80" alt="workSpace"/>
+      </td>
+    </tr>
+  </table>
+</td>
     <td align="right" valign="middle">
-      <img src="https://github.com/user-attachments/assets/3c196b63-dd2e-4fe9-9d43-da35449e4e54" width="65" alt="iOS"/>
-      <img src="https://github.com/user-attachments/assets/92584a0d-eb41-402b-b03d-454d089132e8" width="65" alt="Android"/>
-      <img src="https://github.com/user-attachments/assets/5028985e-f510-47a7-a08b-4614e8ff669d" width="65" alt="Web"/>
-      <img src="https://github.com/user-attachments/assets/15dc521b-6e47-44d1-9b87-29439bcf9af5" width="65" alt="Ubuntu"/>
-      <img src="https://github.com/user-attachments/assets/07c96b69-d88a-49a0-8469-731b994cc480" width="65" alt="Automation"/>
-      <img src="https://github.com/user-attachments/assets/0f3cccd7-98fa-4757-9036-b4003efdfbb4" width="65" alt="API"/>
+      <img src="https://github.com/user-attachments/assets/3c196b63-dd2e-4fe9-9d43-da35449e4e54" width="55" alt="iOS"/>
+      <img src="https://github.com/user-attachments/assets/92584a0d-eb41-402b-b03d-454d089132e8" width="55" alt="Android"/>
+      <img src="https://github.com/user-attachments/assets/51253fcc-9ea8-48d1-a1d1-64fd487235ee" width="55" alt="Sublime"/>
+      <img src="https://github.com/user-attachments/assets/5028985e-f510-47a7-a08b-4614e8ff669d" width="55" alt="Web"/>
+      <img src="https://github.com/user-attachments/assets/15dc521b-6e47-44d1-9b87-29439bcf9af5" width="55" alt="Ubuntu"/>
+      <img src="https://github.com/user-attachments/assets/07c96b69-d88a-49a0-8469-731b994cc480" width="55" alt="Automation"/>
+      <img src="https://github.com/user-attachments/assets/0f3cccd7-98fa-4757-9036-b4003efdfbb4" width="55" alt="API"/>
     </td>
   </tr>
 </table>
@@ -31,12 +43,12 @@ My expertise lies in:
 - 🌐 **API Testing**: Experienced in validating RESTful APIs to ensure robust backend integrations.  
 - 🔍 **Continuous Learning**: Always exploring new tools and methodologies to enhance testing efficiency.
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/75703006-56e5-4dfa-930d-d8b24a5bcce6" width="320"/>
+ <img src="https://github.com/user-attachments/assets/61d1ad8c-2d1e-4cd3-871f-bbf3ad1f61b7" width="320"/><img src="https://github.com/user-attachments/assets/75703006-56e5-4dfa-930d-d8b24a5bcce6" width="320"/>
 </p>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies  <img src="https://github.com/user-attachments/assets/6d5a74ba-228c-4893-a147-1d5eb238eb32" width="700" height="30" alt="API"/>
 
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -74,15 +86,24 @@ A mobile UI QA tool designed to improve the validation of tabular data and compl
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbyaman&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyaman&layout=compact&theme=radical"/>
-</p>
+<table>
+  <tr>
+    <!-- Left: mrRobot image -->
+    <td align="left" valign="top">
+      <img src="https://github.com/user-attachments/assets/42e7386e-0195-488d-8e22-86ec928af1a9" width="350" height="400" alt="mrRobot"/>
+    </td>
+    <!-- Right: GitHub Stats -->
+    <td align="left" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=codedbyaman&show_icons=true&theme=radical" width="600"/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyaman&layout=compact&theme=radical" width="500" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me 
 
 - 📍 Bangalore, India  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aman-kumar-2a809753/)  
