@@ -26,7 +26,7 @@
   </tr>
 </table>
 
- 🎯 **QA Engineer** | 📱 **Android & iOS Testing** | 🌐 **API & Web Automation** | 🧪 **Selenium** | ⚙️ **Appium**
+ ### 🎯QA Engineer | 📱 **Android & iOS Testing** | 🌐 **API & Web Automation** | 🧪 **Selenium** | ⚙️ Appium
  
 <p align="left">
   <img src="https://github.com/user-attachments/assets/3d5f79da-b70d-4378-b8d5-e11e88e478ac" width="720"/>
