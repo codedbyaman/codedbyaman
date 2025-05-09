@@ -5,7 +5,7 @@
     <tr>
       <td>
         <img src="https://github.com/user-attachments/assets/0934ebbe-ffeb-4884-8243-0bf059817577" width="200" height="50" alt="HelloWorld"/>
-        <h1 style="margin: 0;">Hi, I'm Aman</h1>
+        <h1 align="center">I'm Aman</h1>
       </td>
       <!-- Workspace GIF on the right -->
       <td>
