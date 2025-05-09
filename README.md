@@ -48,7 +48,7 @@ My expertise lies in:
 
 ---
 
-## 🛠️ Tools & Technologies  <img src="https://github.com/user-attachments/assets/6d5a74ba-228c-4893-a147-1d5eb238eb32" width="700" height="30" alt="API"/>
+## 🛠️ Tools & Technologies  <img src="https://github.com/user-attachments/assets/6d5a74ba-228c-4893-a147-1d5eb238eb32" width="500" height="30" alt="API"/>
 
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
