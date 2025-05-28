@@ -29,7 +29,7 @@
  ### 🎯QA Engineer | 📱 **Android & iOS Testing** | 🌐 **API & Web Automation** | 🧪 **Selenium** | ⚙️ Appium
  
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/3d5f79da-b70d-4378-b8d5-e11e88e478ac" width="800"/>
+  <img src="https://github.com/user-attachments/assets/3d5f79da-b70d-4378-b8d5-e11e88e478ac" height="500" width="500"/><img src="https://github.com/user-attachments/assets/18d175ec-d8df-4bf1-abaa-e3779e86d561" height="500" width="420"/> 
 </p>
 
 ---
@@ -43,7 +43,7 @@ My expertise lies in:
 - 🌐 **API Testing**: Experienced in validating RESTful APIs to ensure robust backend integrations.  
 - 🔍 **Continuous Learning**: Always exploring new tools and methodologies to enhance testing efficiency.
 <p align="left">
- <img src="https://github.com/user-attachments/assets/61d1ad8c-2d1e-4cd3-871f-bbf3ad1f61b7" width="320"/><img src="https://github.com/user-attachments/assets/75703006-56e5-4dfa-930d-d8b24a5bcce6" width="320"/>
+<img src="https://github.com/user-attachments/assets/61d1ad8c-2d1e-4cd3-871f-bbf3ad1f61b7" width="320"/><img src="https://github.com/user-attachments/assets/75703006-56e5-4dfa-930d-d8b24a5bcce6" width="320"/>
 </p>
 
 ---
