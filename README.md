@@ -29,7 +29,7 @@
  ### 🎯QA Engineer | 📱 **Android & iOS Testing** | 🌐 **API & Web Automation** | 🧪 **Selenium** | ⚙️ Appium
  
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/3d5f79da-b70d-4378-b8d5-e11e88e478ac" height="500" width="500"/><img src="https://github.com/user-attachments/assets/18d175ec-d8df-4bf1-abaa-e3779e86d561" height="500" width="420"/> 
+  <img src="https://github.com/user-attachments/assets/3d5f79da-b70d-4378-b8d5-e11e88e478ac" height="300" width="550"/><img src="https://github.com/user-attachments/assets/18d175ec-d8df-4bf1-abaa-e3779e86d561" height="300" width="250"/> 
 </p>
 
 ---
