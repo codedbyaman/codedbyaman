@@ -110,7 +110,7 @@ A mobile UI QA tool designed to improve the validation of tabular data and compl
 
 - 📍 Bangalore, India  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aman-kumar-2a809753/)  
-- 🐦 [Twitter](https://twitter.com/codedbyaman)  
+- 🐦 [Twitter](https://www.linkedin.com/in/aman-kumar-2a809753/)  
 - 📧 Email: [amankumarbostan@gmail.com](mailto:amankumarbostan@gmail.com)
 
 ---
