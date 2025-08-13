@@ -74,7 +74,7 @@ An internal QA-focused admin dashboard for managing test environments, logs, and
 A modern Android application built with Jetpack Compose and Material 3, showcasing popular movies and trailers using the TMDb API.
 
 ###  [UiTestify- iOS](https://github.com/codedbyaman/UiTestify-iOS)  
-A Jetpack Compose UI testing app built with Espresso. Focused on demonstrating clean architecture and reusable testing patterns in Android.
+A XCUIT UI testing app built with Swift. Focused on demonstrating clean architecture and reusable testing patterns in iOS.
 
 ### 🧪 [aTable](https://github.com/codedbyaman/aTable)  
 A mobile UI QA tool designed to improve the validation of tabular data and complex layouts.
