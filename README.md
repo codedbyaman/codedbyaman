@@ -64,7 +64,7 @@ My expertise lies in:
 
 ## 📂 Featured Projects
 
-### 🎯 [UiTestify](https://github.com/codedbyaman/UiTestify)  
+### 🎯 [UiTestify- Android](https://github.com/codedbyaman/UiTestify)  
 A Jetpack Compose UI testing app built with Espresso. Focused on demonstrating clean architecture and reusable testing patterns in Android.
 
 ### 🧾 [Admin Project](https://github.com/codedbyaman/Admin)  
@@ -72,6 +72,9 @@ An internal QA-focused admin dashboard for managing test environments, logs, and
 
 ### 🎬 [Movie-App](https://github.com/codedbyaman/Movie-App)  
 A modern Android application built with Jetpack Compose and Material 3, showcasing popular movies and trailers using the TMDb API.
+
+###  [UiTestify- iOS](https://github.com/codedbyaman/UiTestify-iOS)  
+A Jetpack Compose UI testing app built with Espresso. Focused on demonstrating clean architecture and reusable testing patterns in Android.
 
 ### 🧪 [aTable](https://github.com/codedbyaman/aTable)  
 A mobile UI QA tool designed to improve the validation of tabular data and complex layouts.
